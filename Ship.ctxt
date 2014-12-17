@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=type\ hp
+comment0.target=Ship(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Warship\r\n
+comment1.params=
+comment1.target=java.lang.String\ getShipType()
+comment1.text=\r\n\ getShipType\ returns\ the\ string\ that\ describes\ which\ ship\ the\ player\ is\ placing\r\n\ \r\n\ @return\ shipType\ returns\ the\ kind\ of\ ship\ it\ is.\r\n
+comment2.params=shipType
+comment2.target=int\ getHitPoints(java.lang.String)
+comment2.text=\r\n\ getHitPoints\ returns\ an\ integer\ that\ indicates\ how\ many\ hits\ the\ ship\ has\ taken,\ \r\n\ or\ has\ left\ before\ it\ is\ sunk.\r\n\ \r\n\ @return\ shipType\ returns\ the\ kind\ of\ ship\ it\ is.\r\n
+comment3.params=
+comment3.target=boolean\ getSunkBool()
+comment3.text=\r\n\ getSunkBool\ returns\ whether\ the\ ship\ has\ been\ sunk\ or\ not.\r\n\ \r\n\ @return\ sunk\ boolean.\r\n
+comment4.params=hitPoints
+comment4.target=void\ setHitPoints(int)
+comment4.text=\r\n\ setHitPoints\ sets\ an\ integer\ that\ indicates\ how\ many\ hits\ the\ ship\ has\ taken,\ \r\n\ or\ has\ left\ before\ it\ is\ sunk.\r\n\ \ \r\n
+comment5.params=
+comment5.target=void\ setSunkBool()
+comment5.text=\r\n\ setSunkBool\ sets\ the\ boolean\ indicating\ whether\ the\ ship\ has\ been\ sunk\ or\ not.\r\n\ \r\n\ @return\ sunk\ boolean.\r\n
+numComments=6
